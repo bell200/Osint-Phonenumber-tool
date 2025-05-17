@@ -8,14 +8,14 @@ API_KEY = 'd08bc5d5348fb0c4748066d3866cfc3c'
 API_URL = 'http://apilayer.net/api/validate'
 
 COUNTRY_FILES = {
-    'FR': 'fr.txt',
-    'IL': 'il.txt',
-    'JO': 'jo.txt',
-    'ES': 'es.txt',
-    'US': 'us.txt',
-    'DE': 'de.txt',
-    'GB': 'gb.txt',
-    'IT': 'it.txt'
+    'FR': 'france.txt',
+    'IL': 'israell.txt',
+    'JO': 'jordan.txt',
+    'ES': 'spain.txt',
+    'US': 'usa.txt',
+    'DE': 'germany.txt',
+    'GB': 'uk.txt',
+    'IT': 'italy.txt'
 }
 
 def print_header():
