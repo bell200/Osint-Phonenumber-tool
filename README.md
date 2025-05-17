@@ -58,7 +58,7 @@ Please manually download the following `.txt` files and place them in the **same
 | Country     | File Name | Download Link |
 |-------------|-----------|----------------|
 | 🇩🇪 Germany  | `de.txt`  | [Download](https://drive.google.com/file/d/1n73pXMhL0piY98sYmnKw55NCJFvc7KPm/view?usp=sharing) |
-| 🇮🇱 Israel   | `il.txt`  | [Download](https://drive.google.com/file/d/1mfth9--EpReULDi9jb8uw1fVg2uVClbP/view?usp=sharing) |
+| 🇮🇱 Israel   | `il.txt`  | [Download]([https://drive.google.com/file/d/1mfth9--EpReULDi9jb8uw1fVg2uVClbP/view?usp=sharing](https://drive.google.com/file/d/1n73pXMhL0piY98sYmnKw55NCJFvc7KPm/view)) |
 | 🇫🇷 France   | `fr.txt`  | [Download](https://drive.google.com/file/d/1MIQXedOUyQGgh8BvtsAwXnEg0ZjVAa8L/view?usp=sharing) |
 | 🇪🇸 Spain    | `es.txt`  | [Download](https://drive.google.com/file/d/1YZlvfH8PGBKXwrRLL9K9gyI6IBuOSbRM/view?usp=sharing) |
 | 🇺🇸 USA      | `us.txt`  | [Download](https://drive.google.com/file/d/1lD8mSILDsvjvCW1YqW552zBt20kMest1/view?usp=sharing) |
