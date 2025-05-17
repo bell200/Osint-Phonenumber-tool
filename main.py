@@ -4,7 +4,7 @@ import subprocess
 from phonenumbers import geocoder
 from art import tprint
 
-API_KEY = 'd08bc5d5348fb0c4748066d3866cfc3c'
+API_KEY = 'Your Api Key'
 API_URL = 'http://apilayer.net/api/validate'
 
 COUNTRY_FILES = {
