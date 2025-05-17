@@ -89,11 +89,7 @@ Enter your number without +: 491607496006
 → Running TruecallerJS ...
 ```
 
----
 
-## 📜 License
-
-MIT License
 
 ---
 
